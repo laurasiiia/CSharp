@@ -1,0 +1,15 @@
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.csproj.AssemblyReference.cache
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.AssemblyInfoInputs.cache
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.AssemblyInfo.cs
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.csproj.CoreCompileInputs.cache
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\bin\Debug\net6.0\p10.CalculaPolpança.exe
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\bin\Debug\net6.0\p10.CalculaPolpança.deps.json
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\bin\Debug\net6.0\p10.CalculaPolpança.runtimeconfig.json
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\bin\Debug\net6.0\p10.CalculaPolpança.dll
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\bin\Debug\net6.0\p10.CalculaPolpança.pdb
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.dll
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\refint\p10.CalculaPolpança.dll
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.pdb
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\p10.CalculaPolpança.genruntimeconfig.cache
+C:\C#\AprendendoCSharp\p10.CalculaPolpança\obj\Debug\net6.0\ref\p10.CalculaPolpança.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "p10.CalculaPolpança/1.0.0": {
+        "runtime": {
+          "p10.CalculaPolpança.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p10.CalculaPolpança/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

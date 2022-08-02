@@ -1,0 +1,15 @@
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\bin\Debug\net6.0\p13.EncadeandoFor.exe
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\bin\Debug\net6.0\p13.EncadeandoFor.deps.json
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\bin\Debug\net6.0\p13.EncadeandoFor.runtimeconfig.json
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\bin\Debug\net6.0\p13.EncadeandoFor.dll
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\bin\Debug\net6.0\p13.EncadeandoFor.pdb
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.csproj.AssemblyReference.cache
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.AssemblyInfoInputs.cache
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.AssemblyInfo.cs
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.dll
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\refint\p13.EncadeandoFor.dll
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.pdb
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\p13.EncadeandoFor.genruntimeconfig.cache
+C:\C#\AprendendoCSharp\p13.EncadeandoFor\obj\Debug\net6.0\ref\p13.EncadeandoFor.dll

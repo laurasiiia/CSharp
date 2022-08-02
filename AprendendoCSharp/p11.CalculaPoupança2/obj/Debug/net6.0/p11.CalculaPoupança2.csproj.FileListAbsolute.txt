@@ -1,0 +1,15 @@
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\bin\Debug\net6.0\p11.CalculaPoupança2.exe
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\bin\Debug\net6.0\p11.CalculaPoupança2.deps.json
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\bin\Debug\net6.0\p11.CalculaPoupança2.runtimeconfig.json
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\bin\Debug\net6.0\p11.CalculaPoupança2.dll
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\bin\Debug\net6.0\p11.CalculaPoupança2.pdb
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.csproj.AssemblyReference.cache
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.AssemblyInfoInputs.cache
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.AssemblyInfo.cs
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.csproj.CoreCompileInputs.cache
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.dll
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\refint\p11.CalculaPoupança2.dll
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.pdb
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\p11.CalculaPoupança2.genruntimeconfig.cache
+C:\C#\AprendendoCSharp\p11.CalculaPoupança2\obj\Debug\net6.0\ref\p11.CalculaPoupança2.dll

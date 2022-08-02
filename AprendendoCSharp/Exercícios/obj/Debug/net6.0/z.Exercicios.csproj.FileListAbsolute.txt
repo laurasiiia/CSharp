@@ -1,0 +1,15 @@
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.csproj.AssemblyReference.cache
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.AssemblyInfoInputs.cache
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.AssemblyInfo.cs
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.csproj.CoreCompileInputs.cache
+C:\C#\AprendendoCSharp\Exercícios\bin\Debug\net6.0\z.Exercicios.exe
+C:\C#\AprendendoCSharp\Exercícios\bin\Debug\net6.0\z.Exercicios.deps.json
+C:\C#\AprendendoCSharp\Exercícios\bin\Debug\net6.0\z.Exercicios.runtimeconfig.json
+C:\C#\AprendendoCSharp\Exercícios\bin\Debug\net6.0\z.Exercicios.dll
+C:\C#\AprendendoCSharp\Exercícios\bin\Debug\net6.0\z.Exercicios.pdb
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.dll
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\refint\z.Exercicios.dll
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.pdb
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\z.Exercicios.genruntimeconfig.cache
+C:\C#\AprendendoCSharp\Exercícios\obj\Debug\net6.0\ref\z.Exercicios.dll
