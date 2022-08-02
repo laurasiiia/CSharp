@@ -1,0 +1,15 @@
+C:\C#\AprendendoCSharp\5.CaracteresTextos\bin\Debug\net6.0\5.CaracteresTextos.exe
+C:\C#\AprendendoCSharp\5.CaracteresTextos\bin\Debug\net6.0\5.CaracteresTextos.deps.json
+C:\C#\AprendendoCSharp\5.CaracteresTextos\bin\Debug\net6.0\5.CaracteresTextos.runtimeconfig.json
+C:\C#\AprendendoCSharp\5.CaracteresTextos\bin\Debug\net6.0\5.CaracteresTextos.dll
+C:\C#\AprendendoCSharp\5.CaracteresTextos\bin\Debug\net6.0\5.CaracteresTextos.pdb
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.csproj.AssemblyReference.cache
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.AssemblyInfoInputs.cache
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.AssemblyInfo.cs
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.csproj.CoreCompileInputs.cache
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.dll
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\refint\5.CaracteresTextos.dll
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.pdb
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\5.CaracteresTextos.genruntimeconfig.cache
+C:\C#\AprendendoCSharp\5.CaracteresTextos\obj\Debug\net6.0\ref\5.CaracteresTextos.dll
