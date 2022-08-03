@@ -3,7 +3,7 @@
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Exercicios no fim do curso");
+        Console.WriteLine("Exercicio no fim do curso");
 
         //Utilize um laço do tipo for para imprimir todos os múltiplos de 3, entre 1 e 100.
 
@@ -20,6 +20,8 @@
         {
             Console.WriteLine(i);
         }
+
+
 
         Console.WriteLine("Tecle enter para fechar.");
         Console.ReadLine(); 
