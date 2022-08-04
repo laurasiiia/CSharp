@@ -7,5 +7,7 @@
         public int numeroAgencia;
         public string nomeAgencia;
         public double saldo;
+
+        //public bool verificador;
     }
 }
