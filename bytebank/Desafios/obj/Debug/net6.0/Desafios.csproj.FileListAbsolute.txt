@@ -1,0 +1,5 @@
+C:\C#\bytebank\Desafios\obj\Debug\net6.0\Desafios.csproj.AssemblyReference.cache
+C:\C#\bytebank\Desafios\obj\Debug\net6.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\bytebank\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfoInputs.cache
+C:\C#\bytebank\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfo.cs
+C:\C#\bytebank\Desafios\obj\Debug\net6.0\Desafios.csproj.CoreCompileInputs.cache
